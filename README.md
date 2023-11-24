@@ -22,3 +22,7 @@ This Python code creates a simple audio player application using the Tkinter and
    - Starts the main event loop (`root.mainloop()`) to run the application, enabling user interaction with the GUI elements.
 
 Overall, this code creates a basic GUI audio player interface where users can select an audio file, play/pause the audio, and interact with buttons that display different images for play, pause, and file browsing operations.
+
+
+![image](https://github.com/shivamtherexpandey/CodeClause_Internship_Audio_Player/assets/95215534/e455b63c-79a3-4b17-a125-d52c0256729a)
+
