@@ -1,4 +1,4 @@
-# CodeClause_Internship_Audio_Player
+# CodeClauseInternship_Audio_Player
 
 This Python code creates a simple audio player application using the Tkinter and Pygame libraries. Here's a breakdown of its functionality:
 
